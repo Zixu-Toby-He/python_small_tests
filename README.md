@@ -1,2 +1,15 @@
-# python_small_tests
-包含一些自己工程实践中的python语言功能小测试
+# Python小测试
+包含一些自己工程实践中的Python功能小测试
+
+# 文件分区
+Python小测试：只有一个文件就能完成测试，直接在该文件夹添加文件
+例如：
+* 某项目包含“hello world.py”，在该项目中放在“/C语言小测试/hello world.py”
+
+Python大测试：两个或两个以上的文件才能完成测试，在该文件夹添加所有于测试相关的文件夹
+例如：
+* 某项目名叫“hello world”包含“hello world.py”和“readme.md”，该项目的路径包括“/Python大测试/hello world/hello world.py”和“/C语言大测试/hello world/readme.md”
+
+# 创新鼓励
+如果要下的话不建议大家完整复制整个项目，最好是想用哪个功能下哪个文件。
+上传的话大家尽管往里扔垃圾，能合并的基本都会合并的，不过应该不会有人没事下我这个项目玩吧。
